@@ -1,5 +1,5 @@
 import Hero from './Hero';
-import ClassImages from './classImages';
+import ClassImages from './ClassImages';
 import Courses from './Courses';
 import CustomerReviews from './CustomerReviews';
 import Points from './Points';

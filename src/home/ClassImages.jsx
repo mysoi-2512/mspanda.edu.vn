@@ -20,4 +20,4 @@ const ClassImages = () => {
   )
 }
 
-export default ClassImages
+export default ClassImages;
